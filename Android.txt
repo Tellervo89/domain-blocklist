@@ -36,3 +36,25 @@ voice-uk01.bnesim.com
 www.dwin1.com
 
 #Ebay
+54b16de4c302.cdn4.forter.com
+mobiletelemetry.ebay.com
+mobifts.ebay.com
+apisd.ebay.com
+autosug.ebaystatic.com
+cdn.quantummetric.com
+p.ebaystatic.com
+
+#Ebay Kleinanzeigen
+api.threadex.com
+app.adjust.net.in
+bidder.criteo.com
+config.ioam.de
+googleads.g.doubleclick.net
+gum.criteo.com
+ib.adnxs.com
+ka.images.icas.io
+lms.ebayk.liberty-prod.classifiedscloud.io
+ssl.google-analytics.com
+encrypted-tbn1.gstatic.com
+
+#Komoot
