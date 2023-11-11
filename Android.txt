@@ -15,6 +15,9 @@ msh.amazon.co.uk
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 
+#Bank Norwegian
+res.cloudinary.com
+
 #Blitzer.de
 d1vq87e9lcf771.cloudfront.net
 in.appcenter.ms
@@ -65,6 +68,11 @@ lms.ebayk.liberty-prod.classifiedscloud.io
 ssl.google-analytics.com
 encrypted-tbn1.gstatic.com
 
+#GLS Bank
+tracking.gls.de
+proxy.tech.visualvest.de
+mcdhtynsjw62t8-cqqhnzg9d4c2m.device.marketingcloudapis.com
+
 #Komoot
 a.tiles-api.maps.komoot.net
 d2exd72xrrp1s7.cloudfront.net
@@ -74,6 +82,14 @@ radar.cedexis.com
 beacons.gvt2.com
 dms.licdn.com
 s2s.singular.net
+
+#Nordea
+tags.tiqcdn.com
+device-api.urbanairship.com
+remote-data.urbanairship.com
+
+#PayPal
+b.stats.paypal.com
 
 #Google Maps
 arcore.googleapis.com
