@@ -1,7 +1,9 @@
+#Duolingo
 brb.duolingo.com
 excess.duolingo.com
 zombie.duolingo.com
 
+#Amazon
 mag-eu.amazon.com
 aax-eu.amazon-adsystem.com
 mads.amazon-adsystem.com
@@ -15,3 +17,22 @@ session.mshopbugsnag.irm.amazon.dev
 prod-1.eu-west-1.mdcs.mshop.amazon.dev
 prod.us-east-1.sonar.prime-video.amazon.de
 msh.amazon.co.uk
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+
+#Blitzer.de
+d1vq87e9lcf771.cloudfront.net
+in.appcenter.ms
+tiles.graphmasters.net
+
+#BNE Sim
+cloud.board.support
+contacts.cloudsoftphone.com
+serve.albacross.com
+sipis.bnesim.com
+sso.cloudsoftphone.com
+static.small.chat
+voice-uk01.bnesim.com
+www.dwin1.com
+
+#Ebay
