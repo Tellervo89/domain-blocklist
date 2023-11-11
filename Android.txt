@@ -1,8 +1,3 @@
-#Duolingo
-brb.duolingo.com
-excess.duolingo.com
-zombie.duolingo.com
-
 #Amazon
 mag-eu.amazon.com
 aax-eu.amazon-adsystem.com
@@ -34,6 +29,11 @@ sso.cloudsoftphone.com
 static.small.chat
 voice-uk01.bnesim.com
 www.dwin1.com
+
+#Duolingo
+brb.duolingo.com
+excess.duolingo.com
+zombie.duolingo.com
 
 #Ebay
 54b16de4c302.cdn4.forter.com
