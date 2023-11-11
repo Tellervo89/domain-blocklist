@@ -58,3 +58,12 @@ ssl.google-analytics.com
 encrypted-tbn1.gstatic.com
 
 #Komoot
+a.tiles-api.maps.komoot.net
+d2exd72xrrp1s7.cloudfront.net
+
+#Google Maps
+arcore.googleapis.com
+geller-pa.googleapis.com
+gz0.googleusercontent.com
+mobilemaps-pa-gz.googleapis.com
+peoplestack-pa.googleapis.com
