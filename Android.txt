@@ -30,6 +30,14 @@ static.small.chat
 voice-uk01.bnesim.com
 www.dwin1.com
 
+#Canva
+static.canva.com
+telemetry.canva.com
+static.cloudflareinsights.com
+sentry.io
+o13855.ingest.sentry.io
+fkvufv-cdn.settings.appsflyersdk.com
+
 #Duolingo
 brb.duolingo.com
 excess.duolingo.com
@@ -61,12 +69,23 @@ encrypted-tbn1.gstatic.com
 a.tiles-api.maps.komoot.net
 d2exd72xrrp1s7.cloudfront.net
 
+#LinkedIn
+radar.cedexis.com
+beacons.gvt2.com
+dms.licdn.com
+s2s.singular.net
+
 #Google Maps
 arcore.googleapis.com
 geller-pa.googleapis.com
 gz0.googleusercontent.com
 mobilemaps-pa-gz.googleapis.com
 peoplestack-pa.googleapis.com
+
+#MS-Office
+graph.microsoft.com
+api.cortana.ai
+beacons.gcp.gvt2.com
 
 #Netflix
 android-anycast.prod.tfl.netflix.com
@@ -89,3 +108,10 @@ static.kwdcn.com
 eu.thtk.temu.com
 locale.temu.com
 
+#Xing
+static.xingcdn.com
+cdn.braze.eu
+dpm.demdex.net
+api.instabug.com
+api-apm.instabug.com
+xena.api.appboy.eu
