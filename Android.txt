@@ -67,3 +67,9 @@ geller-pa.googleapis.com
 gz0.googleusercontent.com
 mobilemaps-pa-gz.googleapis.com
 peoplestack-pa.googleapis.com
+
+#Netflix
+android-anycast.prod.tfl.netflix.com
+push.prod.netflix.com
+
+#
