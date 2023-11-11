@@ -72,4 +72,20 @@ peoplestack-pa.googleapis.com
 android-anycast.prod.tfl.netflix.com
 push.prod.netflix.com
 
-#
+#DownDog
+intermediates.downdogapp.com
+api.eu-west-1.aiv-delivery.net
+
+#Ryanair
+6178.eu.api.swrve.com
+6178.eu-content.swrve.com
+www.google-analytics.com
+
+#Temu
+cdl-2.kwcdn.com
+cfg-1.kwdcn.com
+cfg-2.kwdcn.com
+static.kwdcn.com
+eu.thtk.temu.com
+locale.temu.com
+
